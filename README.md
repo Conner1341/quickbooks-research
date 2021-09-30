@@ -11,6 +11,6 @@ Here are the links used in this research
 
 [API](Quickbooks%20Online%20Integrations%20Research/API.md)
 
-[Third Party Integrations](Quickbooks%20Online%20Integrations%20Research/Third_Party_Integrations.csv)
+[Third Party Integrations](Quickbooks%20Online%20Integrations%20Research/Third_Party_Integrations.md)
 
 [Other names/products I ran across](Quickbooks%20Online%20Integrations%20Research/Other_products_encountered.md)
