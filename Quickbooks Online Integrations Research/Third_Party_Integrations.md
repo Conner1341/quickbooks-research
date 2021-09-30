@@ -1,9 +1,9 @@
 ﻿## Third party App/API Integrations
 
-[Zapier](Zapier.md)
+[Zapier](./Third_Party_Integrations/Zapier.md)
 
-[SyncQ](SyncQ.md)
+[SyncQ](./Third_Party_Integrations/SyncQ.md)
 
-[Breadwinner](Breadwinner.md)
+[Breadwinner](./Third_Party_Integrations/Breadwinner.md)
 
-[DB sync](DB_Sync.md)
+[DB sync](./Third_Party_Integrations/DB_Sync.md)
